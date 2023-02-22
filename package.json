@@ -2,6 +2,10 @@
   "name": "evnia-react",
   "version": "1.3.0",
   "description": "Evnia React Event Conference & Meetup Template",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=7.0.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
