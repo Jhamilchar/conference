@@ -1,0 +1,20 @@
+.content {
+    padding-bottom: 6rem;
+}
+
+.build {
+    width: 12.5rem !important;
+    height: 3.75rem !important;
+}
+
+.build-2 {
+    width: 14rem !important;
+    height: 7rem !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+
+
